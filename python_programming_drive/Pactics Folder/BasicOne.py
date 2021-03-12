@@ -61,13 +61,27 @@
 # one[1]='mahmud'
 # print(one)
 
-# tuple keep another list,dictionary and tuple to itself
-mix=('mahmud',[1,2,3,4,5],{'second':'hossain'},('a','b','c'))
-print(mix[2])
-# tuple  spered
-a,b,c,d=mix
-print(mix)
-print (a)
-print(b)
-print(c)
-print(d)
+# # tuple keep another list,dictionary and tuple to itself
+# mix=('mahmud',[1,2,3,4,5],{'second':'hossain'},('a','b','c'))
+# print(mix[2])
+# # tuple  spered
+# a,b,c,d=mix
+# print(mix)
+# print (a)
+# print(b)
+# print(c)
+# print(d)
+# # another way of spred for more tuple element
+# more=[1,2,3,4,5,6,7,8,9]
+# # a,b,c,*d=more
+# # print(a)
+# # print(b)
+# # print(c)
+# # print(d)
+# # Or
+# a,b,*c,d,e=more
+# print(a)
+# print(b)
+# print(c)
+# print(d)
+# print(e)
