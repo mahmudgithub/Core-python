@@ -89,3 +89,6 @@
 # # basic input and output functipon
 # input ('name:')
 # some importace method
+# # join method 
+# print(','.join(['apple','orange','banana','watermelon']))
+# type conversion 
