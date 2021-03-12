@@ -85,3 +85,7 @@
 # print(c)
 # print(d)
 # print(e)
+
+# # basic input and output functipon
+# input ('name:')
+# some importace method
