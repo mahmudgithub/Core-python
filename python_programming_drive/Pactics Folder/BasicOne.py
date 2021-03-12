@@ -119,17 +119,30 @@
 # # check abcence element in list 
 # print('mango' not in list)
 
-# method in python list
-# append method in list
-list=['a','b','c','d','e','f']
-list.append('mahmud')
-print(list)
-# append method add a new list to pre list 
-list.append(['g','h','i'])
-print(list)
-# append add dicsonry to list 
-list.append({'name':'lamyaa','age':19})
-print(list)
-# append method add tuple in list 
-list.append((1,2,3,4,5))
-print(list)
+# # method in python list
+# # append method in list
+# list=['a','b','c','d','e','f']
+# list.append('mahmud')
+# print(list)
+# # append method add a new list to pre list 
+# list.append(['g','h','i'])
+# print(list)
+# # append add dicsonry to list 
+# list.append({'name':'lamyaa','age':19})
+# print(list)
+# # append method add tuple in list 
+# list.append((1,2,3,4,5))
+# print(list)
+# inset method use on list 
+# # insert method add new element in list across index number 
+# list =[1,2,3,4]
+# list.insert(2,'mahmud')
+# print(list)
+# # insert tuple,dictionary,and another list to list 
+# list.insert(0,('a','b','c'))
+# print(list)
+# list.insert(0,{'apple','banana'})
+# print(list)
+# list.insert(0,[5,6,7,8,9])
+# print(list)
+
