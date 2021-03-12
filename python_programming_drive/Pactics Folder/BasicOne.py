@@ -93,5 +93,6 @@
 # print(','.join(['apple','orange','banana','watermelon']))
 # type conversion 
 # int to string 
-number=12345
-print(str(number))
+# number=12345
+# print(str(number))
+# print('i am mahmud '+'my age is '+str(26) + ' i a love to eat')
