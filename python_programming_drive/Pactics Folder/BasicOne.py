@@ -46,3 +46,6 @@ print(add)
 # replace value of dicsonry
 add['second']='mahmud'
 print(add)
+# search specific key value from dicspnary
+print('fourth' in add)
+print('first' in add)
