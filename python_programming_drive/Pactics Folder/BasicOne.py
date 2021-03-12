@@ -57,3 +57,6 @@
 # tuple
 one=('mahmud','hossain','nannu')
 print(one[1])
+# donot update tuple value
+one[1]='mahmud'
+print(one)
