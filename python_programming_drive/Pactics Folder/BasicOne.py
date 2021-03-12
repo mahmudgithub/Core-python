@@ -16,3 +16,6 @@ print(country.find('bangladesh'))
 # use replace method to replace any item in predefined string value
 one=country.replace('bangladesh','islamic')
 print(one)
+# upper case a string
+two='bangladesh'
+print(two.upper())
