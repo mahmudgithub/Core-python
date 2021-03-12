@@ -43,3 +43,6 @@ print(marks['math'])
 add={'first':'mahmud','second':'hossain'}
 add['third']='nannu'
 print(add)
+# replace value of dicsonry
+add['second']='mahmud'
+print(add)
