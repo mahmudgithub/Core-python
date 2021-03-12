@@ -153,3 +153,11 @@
 # # count method count how much element of list are repeted 
 # list=[1,2,3,4,5,3,4,5,5,5,6]
 # print(list.count(5))
+# max method in list 
+# # max use to find maximu value of list elment 
+# list=[1,2,3,4,5,11111]
+# print(max (list))
+# # min use to find minimum value of list 
+# print(min(list))
+# # len use to find length of list 
+# print(len(list))
