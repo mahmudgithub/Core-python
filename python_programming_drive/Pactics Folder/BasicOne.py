@@ -145,4 +145,7 @@
 # print(list)
 # list.insert(0,[5,6,7,8,9])
 # print(list)
-
+# index method in list 
+# found list elment according to index number 
+list=['a','b','c','d','e']
+print(list.index('d'))
