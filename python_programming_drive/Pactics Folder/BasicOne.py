@@ -92,3 +92,6 @@
 # # join method 
 # print(','.join(['apple','orange','banana','watermelon']))
 # type conversion 
+# int to string 
+number=12345
+print(str(number))
