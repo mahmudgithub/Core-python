@@ -120,3 +120,8 @@
 # print('mango' not in list)
 
 # method in python list
+# append method in list
+list=['a','b','c','d','e','f']
+list.append('mahmud')
+print(list)
+
