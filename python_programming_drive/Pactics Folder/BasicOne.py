@@ -26,3 +26,5 @@ print(three.lower())
 print(country.split())
 # count method count repeted string in a full string
 print (country.count('bangladesh'))
+# startwith method check specific starting string and answer true and false
+print(country.startswith('Once'))
