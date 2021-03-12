@@ -108,8 +108,13 @@
 # elif age<=18:print('no voter')
 # else:print('complex')
 # python list
-list=['mango','apple','banana']
-print(list[1])
-# add two list
-list2=['mahmud','hossain','cool']
-print(list+list2)
+# list=['mango','apple','banana']
+# print(list[1])
+# # add two list
+# list2=['mahmud','hossain','cool']
+# print(list+list2)
+# print(str(list)*5)
+# # check element in list 
+# print('mango' in list)
+# # check abcence element in list 
+# print('mango' not in list)
