@@ -118,3 +118,5 @@
 # print('mango' in list)
 # # check abcence element in list 
 # print('mango' not in list)
+
+# method in python list
