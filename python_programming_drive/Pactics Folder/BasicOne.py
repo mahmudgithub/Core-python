@@ -54,9 +54,20 @@
 # print (add.get('second'))
 
 
-# tuple
-one=('mahmud','hossain','nannu')
-print(one[1])
-# donot update tuple value
-one[1]='mahmud'
-print(one)
+# # tuple
+# one=('mahmud','hossain','nannu')
+# print(one[1])
+# # donot update tuple value
+# one[1]='mahmud'
+# print(one)
+
+# tuple keep another list,dictionary and tuple to itself
+mix=('mahmud',[1,2,3,4,5],{'second':'hossain'},('a','b','c'))
+print(mix[2])
+# tuple  spered
+a,b,c,d=mix
+print(mix)
+print (a)
+print(b)
+print(c)
+print(d)
