@@ -124,4 +124,12 @@
 list=['a','b','c','d','e','f']
 list.append('mahmud')
 print(list)
-
+# append method add a new list to pre list 
+list.append(['g','h','i'])
+print(list)
+# append add dicsonry to list 
+list.append({'name':'lamyaa','age':19})
+print(list)
+# append method add tuple in list 
+list.append((1,2,3,4,5))
+print(list)
