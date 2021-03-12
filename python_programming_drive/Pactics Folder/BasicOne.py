@@ -22,3 +22,5 @@ print(two.upper())
 # lower case a string
 three='BANGLADESH'
 print(three.lower())
+# split method separate eatch space and show an array list
+print(country.split())
