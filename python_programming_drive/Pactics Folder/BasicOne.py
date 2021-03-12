@@ -24,3 +24,5 @@ three='BANGLADESH'
 print(three.lower())
 # split method separate eatch space and show an array list
 print(country.split())
+# count method count repeted string in a full string
+print (country.count('bangladesh'))
