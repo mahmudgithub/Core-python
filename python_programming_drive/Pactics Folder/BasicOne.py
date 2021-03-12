@@ -147,5 +147,9 @@
 # print(list)
 # index method in list 
 # found list elment according to index number 
-list=['a','b','c','d','e']
-print(list.index('d'))
+# list=['a','b','c','d','e']
+# print(list.index('d'))
+# count method in list 
+# # count method count how much element of list are repeted 
+# list=[1,2,3,4,5,3,4,5,5,5,6]
+# print(list.count(5))
