@@ -54,3 +54,6 @@
 # print (add.get('second'))
 
 
+# tuple
+one=('mahmud','hossain','nannu')
+print(one[1])
