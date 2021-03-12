@@ -49,3 +49,6 @@ print(add)
 # search specific key value from dicspnary
 print('fourth' in add)
 print('first' in add)
+# using get method to found item in dictionary
+print(add.get('five'))
+print (add.get('second'))
