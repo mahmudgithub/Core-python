@@ -36,3 +36,10 @@
 names={'first':'mahmud','second':'hossain'}
 print(names)
 print(names['first'])
+# dicsonry keep a list
+marks={'math':[20,30,40],'english':[60,70,80],'bangla':[10,5,1]}
+print(marks['math'])
+# add new value to dicsonry
+add={'first':'mahmud','second':'hossain'}
+add['third']='nannu'
+print(add)
