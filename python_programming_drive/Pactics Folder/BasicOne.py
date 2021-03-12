@@ -19,3 +19,6 @@ print(one)
 # upper case a string
 two='bangladesh'
 print(two.upper())
+# lower case a string
+three='BANGLADESH'
+print(three.lower())
