@@ -13,3 +13,6 @@ print(arr+arr2)
 # find method to find any specific item and its location from string
 country='Once upon a time our countruy bangladesh have agood resource of fish ,but recently bangladesh is not enough its'
 print(country.find('bangladesh'))
+# use replace method to replace any item in predefined string value
+one=country.replace('bangladesh','islamic')
+print(one)
