@@ -107,3 +107,9 @@
 # if age>18:print('voter age')
 # elif age<=18:print('no voter')
 # else:print('complex')
+# python list
+list=['mango','apple','banana']
+print(list[1])
+# add two list
+list2=['mahmud','hossain','cool']
+print(list+list2)
