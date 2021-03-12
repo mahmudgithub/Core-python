@@ -96,3 +96,14 @@
 # number=12345
 # print(str(number))
 # print('i am mahmud '+'my age is '+str(26) + ' i a love to eat')
+
+
+# # conditionl python
+# name='mahmud'
+# if name=='mahmudd':print(True)
+# else:print(False)
+# # # if,else,else-if condition #
+# age=int(input('enter age:'))
+# if age>18:print('voter age')
+# elif age<=18:print('no voter')
+# else:print('complex')
