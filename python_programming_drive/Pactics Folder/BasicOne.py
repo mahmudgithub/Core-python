@@ -244,3 +244,21 @@
 #     for s in kwargs:
 #         print("{0} : {1}".format(s, kwargs[s]))
 # both('mahmud',1,2,3,a='hossain',b='nannu',c='mahmud')
+
+# # function return 
+# def fn(x,y):
+#     return 'sum id:'+str(x+y)
+# sos=fn(2,3)
+# print(sos)
+
+
+
+# single line comment out 
+# hello 
+# multiline comment out in python
+"""
+helloffjdjkdjkdjkdjdjddkjdk
+djhddddddj
+djdddjdjd
+"""
+
