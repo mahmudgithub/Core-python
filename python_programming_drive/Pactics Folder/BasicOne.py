@@ -298,6 +298,12 @@ djdddjdjd
 
 # lamda function in python 
 # it also called anonymous function
-lol=(lambda x,y: x+y)(2,2)
-print(lol)
+# lol=(lambda x,y: x+y)(2,2)
+# print(lol)
+# print((lambda x,y:x-y)(5,2))
+# def so(*args): 
+#     for x in args:
+#         print(x);
+# so(1,2,3,4,5)
 
+# python map function 
