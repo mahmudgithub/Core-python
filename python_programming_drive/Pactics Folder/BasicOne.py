@@ -172,11 +172,18 @@
 # list.insert(0,'hossain')
 # print(list)
 # range in python 
-number=list(range(10))
-print(number)
-# create range in specific start and ending
-number=list(range(5,20))
-print(number)
-# create list range with start,step,ending
-number=list(range(5,15,3))
-print(number)
+# number=list(range(10))
+# print(number)
+# # create range in specific start and ending
+# number=list(range(5,20))
+# print(number)
+# # create list range with start,step,ending
+# number=list(range(5,15,3))
+# print(number)
+# for loop in list 
+# lists=[1,2,3,4,5,6,7]
+# for i in lists:
+#     print(i,'mahmud')
+# use range in for loop list 
+for i in range(10):
+    print(i)
