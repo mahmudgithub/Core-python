@@ -174,3 +174,9 @@
 # range in python 
 number=list(range(10))
 print(number)
+# create range in specific start and ending
+number=list(range(5,20))
+print(number)
+# create list range with start,step,ending
+number=list(range(5,15,3))
+print(number)
