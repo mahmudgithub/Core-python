@@ -219,9 +219,16 @@
 #     return 'i am value of x:'+str(x);
 # print(one(10)) 
 
-# multi prameter handel 
-def multi(*args):
-    for i in args:
-        print(i)
+# # multi prameter handel 
+# def multi(*args):
+#     for i in args:
+#         print(i)
 
-multi(1,2,3,4,5,6)
+# multi(1,2,3,4,5,6)
+
+# # multi dicsonry handel 
+# def multi(**kwargs):
+#     print(kwargs)
+#     for i in kwargs:
+#         print(i)
+# multi(a=1,b=2,c=3,d=4,e=5)
