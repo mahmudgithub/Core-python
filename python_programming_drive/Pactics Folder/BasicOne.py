@@ -180,10 +180,32 @@
 # # create list range with start,step,ending
 # number=list(range(5,15,3))
 # print(number)
-# for loop in list 
-# lists=[1,2,3,4,5,6,7]
-# for i in lists:
-#     print(i,'mahmud')
-# use range in for loop list 
-for i in range(10):
-    print(i)
+# # for loop in list 
+# # lists=[1,2,3,4,5,6,7]
+# # for i in lists:
+# #     print(i,'mahmud')
+# # use range in for loop list 
+# # for i in range(10):
+# #     print(i)
+# # specific range list 
+# # for i in range(5,20):
+# #     print(i)
+# for i in range(5,20,2):
+#     print(i)
+# # inverse range list for loop 
+# for i in range(25,0,-3):
+#     print(i)
+# # use for loop on string 
+# for i in 'python':
+#     print(i)
+# # use break and cotinue in for loop 
+# los=[1,2,3,4,5,6,7,8,9]
+# for i in los:
+#     if i==5:
+#         break;
+#     print(i)
+# for x in los:
+#     if x==5:
+#         print('continue:'+str(x))
+#         continue;
+#     print(x)
