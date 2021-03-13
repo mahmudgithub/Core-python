@@ -230,5 +230,17 @@
 # def multi(**kwargs):
 #     print(kwargs)
 #     for i in kwargs:
-#         print(i)
+#         print("{0} : {1}".format(i, kwargs[i]))
+#         # print(i)
 # multi(a=1,b=2,c=3,d=4,e=5)
+
+# # single,double,multi parameter pass to function at a time 
+# def both(x,*args,**kwargs):
+#     print(x);
+#     print(args);
+#     print(kwargs)
+#     for i in args:
+#         print(i);
+#     for s in kwargs:
+#         print("{0} : {1}".format(s, kwargs[s]))
+# both('mahmud',1,2,3,a='hossain',b='nannu',c='mahmud')
