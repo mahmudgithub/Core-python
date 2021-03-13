@@ -161,3 +161,11 @@
 # print(min(list))
 # # len use to find length of list 
 # print(len(list))
+# today pactics 13.3.2021
+# python list function 
+# append metthod
+list=[1,2,3,4,5,6]
+print (list)
+list.append('mahmud')
+print(list)
+
