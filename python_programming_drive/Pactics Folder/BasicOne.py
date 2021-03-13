@@ -262,3 +262,9 @@ djhddddddj
 djdddjdjd
 """
 
+# function assign into variable 
+def one(x):
+    return x;
+two=one
+print(two('mahmud'))
+
