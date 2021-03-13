@@ -209,3 +209,19 @@
 #         print('continue:'+str(x))
 #         continue;
 #     print(x)
+
+# python function 
+# def fn():
+#     print(' i am first function example of python')
+# fn()
+
+# def one(x):
+#     return 'i am value of x:'+str(x);
+# print(one(10)) 
+
+# multi prameter handel 
+def multi(*args):
+    for i in args:
+        print(i)
+
+multi(1,2,3,4,5,6)
