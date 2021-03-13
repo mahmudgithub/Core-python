@@ -306,4 +306,22 @@ djdddjdjd
 #         print(x);
 # so(1,2,3,4,5)
 
-# python map function 
+# # # python map function 
+# def one(x):
+#     return x*2;
+# mark=[1,2,3,4,5]
+# result=map(one,mark)
+# print(list(result))
+
+# def fn(s):
+#     return'hello'+str(s)
+# mark=[1,2,3]
+# result=map(fn,mark)
+# print(list(result))
+
+# filter method in python
+def one(x):
+    return x%2==0;
+two=[2,3,4,5,6,7,8,9]
+result=filter(one,two)
+print(list(result))
