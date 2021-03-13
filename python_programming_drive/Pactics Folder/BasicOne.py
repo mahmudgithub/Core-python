@@ -163,11 +163,14 @@
 # print(len(list))
 # today pactics 13.3.2021
 # python list function 
-# append metthod
-list=[1,2,3,4,5,6]
-print (list)
-list.append('mahmud')
-print(list)
-# inset method in python 
-list.insert(0,'hossain')
-print(list)
+# # append metthod
+# list=[1,2,3,4,5,6]
+# print (list)
+# list.append('mahmud')
+# print(list)
+# # inset method in python 
+# list.insert(0,'hossain')
+# print(list)
+# range in python 
+number=list(range(10))
+print(number)
