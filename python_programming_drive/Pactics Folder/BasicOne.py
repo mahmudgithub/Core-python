@@ -276,8 +276,22 @@ djdddjdjd
 # sos=one(two)
 # print(sos)
 
-# impor module in python 
-import random
+# # impor module in python 
+# import random
+# from math import pi,sqrt
+# value = random.randint(1, 100)
+# print(value)
+# print(pi)
+# print(sqrt(3))
+# # if want to change import module name 
+# from math import sqrt as root
+# print(root(9))
+# # python higher order function 
+# def one(fn,x):
+#     return fn(x)
 
-value = random.randint(1, 100)
-print(value)
+# def two(sos):
+#     return sos+5
+
+# lol=one(two,10)
+# print(lol)
