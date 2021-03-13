@@ -295,3 +295,9 @@ djdddjdjd
 
 # lol=one(two,10)
 # print(lol)
+
+# lamda function in python 
+# it also called anonymous function
+lol=(lambda x,y: x+y)(2,2)
+print(lol)
+
