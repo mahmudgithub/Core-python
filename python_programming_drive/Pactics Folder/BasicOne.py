@@ -262,9 +262,16 @@ djhddddddj
 djdddjdjd
 """
 
-# function assign into variable 
-def one(x):
-    return x;
-two=one
-print(two('mahmud'))
+# # function assign into variable 
+# def one(x):
+#     return x;
+# two=one
+# print(two('mahmud'))
 
+# function assign to another function as an parameter ,it also said callback function 
+def one(x):
+    return x()
+def two():
+    return 'i am two'
+sos=one(two)
+print(sos)
