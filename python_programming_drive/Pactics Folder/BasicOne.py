@@ -339,12 +339,21 @@ djdddjdjd
 # def four():
 #     print('llllllllllllllllllllllll')
 
-def one(callback):
-    return callback();
-def two():
-    print('i am callback function')
-one(two)
+# def one(callback):
+#     return callback();
+# def two():
+#     print('i am callback function')
+# one(two)
 
-@one
-def three():
-    print('i am second callback ')
+# @one
+# def three():
+#     print('i am second callback ')
+
+# python recursion 
+def factorial(x):
+    if x==1:
+        return 1
+    else:
+        return x*factorial(x-1)
+lol=factorial
+print(lol(19))
