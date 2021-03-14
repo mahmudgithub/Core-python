@@ -325,10 +325,26 @@ djdddjdjd
 # two=[2,3,4,5,6,7,8,9]
 # result=filter(one,two)
 # print(list(result))
-def one(x):
-    print('-------------------------')
-    x()
-    print('-------------------------')
+# python decoretor 
+
+# def one(x):
+#     print('-------------------------')
+#     x()
+#     print('-------------------------')
+
+# @one
+# def three():
+#     print('i am mahmud')
+# @one
+# def four():
+#     print('llllllllllllllllllllllll')
+
+def one(callback):
+    return callback();
 def two():
-    print('hello')
+    print('i am callback function')
 one(two)
+
+@one
+def three():
+    print('i am second callback ')
