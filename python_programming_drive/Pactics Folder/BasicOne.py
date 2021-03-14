@@ -319,9 +319,16 @@ djdddjdjd
 # result=map(fn,mark)
 # print(list(result))
 
-# filter method in python
+# # filter method in python
+# def one(x):
+#     return x%2==0;
+# two=[2,3,4,5,6,7,8,9]
+# result=filter(one,two)
+# print(list(result))
 def one(x):
-    return x%2==0;
-two=[2,3,4,5,6,7,8,9]
-result=filter(one,two)
-print(list(result))
+    print('-------------------------')
+    x()
+    print('-------------------------')
+def two():
+    print('hello')
+one(two)
