@@ -420,3 +420,21 @@ djdddjdjd
 
 # lol=three()
 # lol.c()
+
+#application of super method in python class 
+# class one:
+#     def sos(self):
+#         print('i am from one')
+# class two:
+#     def sos(self):
+#         print('i am from two')
+# class three:
+#     def sos(self):
+#         print('i a from three')
+# class all(one,two,three):
+#     def sos(self):
+#         print('i am from all')
+#         super().sos()
+#         # three.__init__(self)
+
+# all().sos()
