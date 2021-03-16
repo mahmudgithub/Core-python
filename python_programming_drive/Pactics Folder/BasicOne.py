@@ -478,3 +478,26 @@ djdddjdjd
 # lol.city='rajshahi'
 # lol.fn1()
 # lol.fn2(123)
+
+# class one:
+#     name='hossain'
+#     def fn(self):
+#         print(self.name)
+#     def fn2(self,city):
+#         print(self.name + city)
+# lol=one()
+# # lol.name='mahmd'
+# lol.fn2('rajshahi')
+
+# local init method 
+# class one:
+#     city=''
+#     def __init__(self,name):
+#         self.name=name
+#         print(name)
+
+#     def fn(self,board):
+#         print(self.name +'  '+self.city +'  '+  board)
+# lol=one('mahmud')
+# lol.city='fffffffff'
+# lol.fn('raj')
