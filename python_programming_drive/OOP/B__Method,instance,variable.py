@@ -12,7 +12,6 @@ lol.name='mahmud'
 lol.roll=12345
 lol.one()
 sos=Student()
-
 sos.name='lamyaa'
 sos.roll=000
 sos.one()

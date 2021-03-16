@@ -438,3 +438,15 @@ djdddjdjd
 #         # three.__init__(self)
 
 # all().sos()
+
+
+# global parameter in python class 
+class Student:
+
+    def one(self):
+        print(self.name)
+        print(self.roll)
+lol=Student()
+lol.name='mahmud'
+lol.roll=12345
+lol.one()
