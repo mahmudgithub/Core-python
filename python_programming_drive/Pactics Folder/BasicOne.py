@@ -440,8 +440,10 @@ djdddjdjd
 # all().sos()
 
 
-# global parameter in python class 
+# # global parameter in python class 
 # class Student:
+#     name=''
+#     roll=''
 
 #     def one(self):
 #         print(self.name)
@@ -461,3 +463,18 @@ djdddjdjd
 
 # lol=one()
 # lol.fn('mahmu',255)
+
+# global and local parameter combine example 
+# class one:
+#     name=''
+#     city=''
+#     def fn1(self):
+#         print('name: '+self.name + ' city: ' + self.city)
+
+#     def fn2(self,roll):
+#         print( 'name: '+self.name + ' city: ' +self.city + ' roll: ' + str(roll))
+# lol=one()
+# lol.name='mahmud'
+# lol.city='rajshahi'
+# lol.fn1()
+# lol.fn2(123)
