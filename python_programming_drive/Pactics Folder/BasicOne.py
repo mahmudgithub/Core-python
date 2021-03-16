@@ -378,10 +378,32 @@ djdddjdjd
 #     print('hello world')
 # j=two
 
-# constructor or init method 
+# # constructor or init method 
+# class lol:
+#     def __init__(self,name,roll):
+#         self.name=name
+#         self.roll=roll
+# one=lol('mahmud',3)
+# print('my name is '+one.name+' my roll is:'+str(one.roll))
+
+# python init method run automatically when another function 
+# class one:
+#     def __init__(self,names,age):
+#         self.names=names
+#         self.age=age
+#         print('my name is '+names+ 'my age is :'+str(age))
+    
+#     def two(self):
+#         print(' i am from init,my name is :' +str(self.names))
+
+# lol=one('mahmud',26)
+# lol.two()
+
 class lol:
-    def __init__(self,name,roll):
-        self.name=name
-        self.roll=roll
-one=lol('mahmud',3)
-print('my name is '+one.name+' my roll is:'+str(one.roll))
+    def __init__(self):
+        print('i am init function')
+    def one(self):
+        print('i am general function')
+a=lol
+a()
+a.one(a)
