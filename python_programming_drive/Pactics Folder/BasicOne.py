@@ -366,3 +366,14 @@ djdddjdjd
 #         break;
 
 # today pactics 16.3.2021 
+# class concept in python 
+# defined a classical class 
+# class one:
+#     def fn1():
+#         print('i am function one')
+# lol=one
+# lol.fn1()
+
+# class two:
+#     print('hello world')
+# j=two
