@@ -501,3 +501,16 @@ djdddjdjd
 # lol=one('mahmud')
 # lol.city='fffffffff'
 # lol.fn('raj')
+
+# init class inhetitance in python 
+# class one:
+#     def __init__(self):
+#         print('i am first init class ')
+# class two:
+#     def __init__(self):
+#         print('i am secod init class')
+# class all(one,two):
+#     def __init__(self):
+#         super().__init__()
+# lol=all()
+
