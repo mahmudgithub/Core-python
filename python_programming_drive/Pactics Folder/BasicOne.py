@@ -399,11 +399,24 @@ djdddjdjd
 # lol=one('mahmud',26)
 # lol.two()
 
-class lol:
-    def __init__(self):
-        print('i am init function')
-    def one(self):
-        print('i am general function')
-a=lol
-a()
-a.one(a)
+# class lol:
+#     def __init__(self):
+#         print('i am init function')
+#     def one(self):
+#         print('i am general function')
+# a=lol
+# a()
+# a.one(a)
+# class inheritanc in python 
+# class one:
+#     def a(self):
+#         print('i am function a in class one')
+# class two:
+#     def b(self):
+#         print('i am function b in class two ')
+# class three(one,two):
+#     def c(self):
+#         pass
+
+# lol=three()
+# lol.c()
