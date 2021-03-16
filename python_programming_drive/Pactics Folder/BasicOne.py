@@ -377,3 +377,11 @@ djdddjdjd
 # class two:
 #     print('hello world')
 # j=two
+
+# constructor or init method 
+class lol:
+    def __init__(self,name,roll):
+        self.name=name
+        self.roll=roll
+one=lol('mahmud',3)
+print('my name is '+one.name+' my roll is:'+str(one.roll))
