@@ -349,11 +349,20 @@ djdddjdjd
 # def three():
 #     print('i am second callback ')
 
-# python recursion 
-def factorial(x):
-    if x==1:
-        return 1
-    else:
-        return x*factorial(x-1)
-lol=factorial
-print(lol(19))
+# # python recursion 
+# def factorial(x):
+#     if x==1:
+#         return 1
+#     else:
+#         return x*factorial(x-1)
+# lol=factorial
+# print(lol(19))
+
+# # python iteretor tootls 
+# from itertools import count
+# for i in count(5):
+#     print(i)
+#     if i>100:
+#         break;
+
+# today pactics 16.3.2021 
