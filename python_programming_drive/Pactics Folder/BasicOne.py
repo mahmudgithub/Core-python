@@ -441,12 +441,23 @@ djdddjdjd
 
 
 # global parameter in python class 
-class Student:
+# class Student:
 
-    def one(self):
-        print(self.name)
-        print(self.roll)
-lol=Student()
-lol.name='mahmud'
-lol.roll=12345
-lol.one()
+#     def one(self):
+#         print(self.name)
+#         print(self.roll)
+# lol=Student()
+# lol.name='mahmud'
+# lol.roll=12345
+# lol.one()
+
+# # local parameter in a class 
+# class one:
+#     def fn(self,name,roll):
+#         self.name=name
+#         self.roll=roll
+#         print('name is :'+ name)
+#         print('roll is :'+ str(roll))
+
+# lol=one()
+# lol.fn('mahmu',255)
