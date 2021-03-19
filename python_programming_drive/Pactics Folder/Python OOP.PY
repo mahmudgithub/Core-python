@@ -36,16 +36,29 @@
 # encapsulation propertics 
 #this preventing data from direct modification,  
 # in python we denote the private attributes by using single _ or double __
-class encapsulation:
-    def __init__(self):
-        pass
-    def one(self):
+# class encapsulation:
+#     def __init__(self):
+#         pass
+#     def one(self):
+#         print('i am function one')
+#     # def _two(self):
+#     #     print('i am function two ')
+#     # def __three(self):
+#     #     print('i am function three')
+# lol=encapsulation()
+# lol.one()  #function one is accesseable cause it is public
+# # lol.two() # function two is privet 
+# # lol.three() #function two is not accessable cause it is privet
+
+# inheritance propertics of python 
+class one:
+    def fn1(self):
         print('i am function one')
-    # def _two(self):
-    #     print('i am function two ')
-    # def __three(self):
-    #     print('i am function three')
-lol=encapsulation()
-lol.one()  #function one is accesseable cause it is public
-# lol.two() # function two is privet 
-# lol.three() #function two is not accessable cause it is privet
+class two:
+    def fn2(self):
+        print('i am function two')
+class three(one,two):
+    pass
+
+lol=three()
+lol.fn2()
