@@ -51,14 +51,75 @@
 # # lol.three() #function two is not accessable cause it is privet
 
 # inheritance propertics of python 
+# class one:
+#     def fn1(self):
+#         print('i am function one')
+# class two:
+#     def fn2(self):
+#         print('i am function two')
+# class three(one,two):
+#     pass
+
+# lol=three()
+# lol.fn2()
+# classification of inheritance 
+
+# multiple iheritance
+# If a class inherits more than one class we can call it multiple
+# inheritances.
+# class one:
+#     def fn1(self):
+#         print(' i am first function of class one')
+# class two(one):
+#     def fn2(self):
+#         print('i am function two from class two ')
+# class three(one,two):
+#     def fn3(self):
+#         print('i am function thre of class three')
+
+# lol=three()
+# lol.fn3()
+
+# multilavel inheritance 
+# class one:
+#     def fn1(self):
+#         print(' i am first function of class one')
+# class two(one):
+#     def fn2(self):
+#         print('i am function two from class two ')
+# class three(two):
+#     def fn3(self):
+#         print('i am function thre of class three')
+
+# lol=three()
+# lol.fn3()
+
+# # hirarchical inheritance 
+# class one:
+#     def fn1(self,name):
+#         self.name=name
+#         print(self.name + ' is running')
+# class two(one):
+#     def fn2(self,name):
+#         self.name=name
+#         peint('hello world')
+# class three(one):
+#     pass
+
+# lol=two()
+# lol.fn1('mahmud')
+# # lol.fn2()
+
+# sos=three()
+# sos.fn1('hossain')
+
+# python overriding 
 class one:
     def fn1(self):
-        print('i am function one')
-class two:
-    def fn2(self):
-        print('i am function two')
-class three(one,two):
-    pass
+        print('i am fn one of class one')
+class two(one):
+    def fn1(self):
+        print('i am fn2 of class two')
 
-lol=three()
-lol.fn2()
+lol=two()
+lol.fn1()
