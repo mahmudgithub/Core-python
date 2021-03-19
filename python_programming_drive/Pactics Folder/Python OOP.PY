@@ -136,3 +136,32 @@
 #         print('i am second init function,and my name is :'+name)
 # lol=one()
 # sos=two('mahmud')
+
+# class one:
+#     def __init__(Self):
+#         print('i am first init method')
+# class two:
+#     def __init__(self):
+#         print('i am second init method')
+
+# class three:
+#     def __init__(self):
+#         print('i am third init method')
+# class four(one,three):
+#     def __init__(self):
+#         super().__init__()
+#         print('i am all fun')
+# lol=four()
+
+# class one:
+#     def __init__(self,name,age):
+#         self.name=name
+#         self.age=age
+
+# class two(one):
+#     def __init__(self,name,age,city):
+#         super().__init__(name,age)
+#         self.city=city
+#         print('i am :'+name+'my age :'+age+'my city :'+city)
+
+# lol=two('mahmud','26','rajshahi')
