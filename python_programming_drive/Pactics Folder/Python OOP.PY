@@ -144,6 +144,31 @@
 # lol=two()
 # lol.fn1()
 
+
+# class Animal:
+#     def run(self, name):
+#         self.name = name
+#         print(f'{self.name} Is Runing')
+
+
+
+# class Dog(Animal):
+#     pass
+
+
+
+# class Cat(Animal):
+#     pass
+
+
+
+# dog = Dog()
+# dog.run("Dog")
+
+
+# cat = Cat()
+# cat.run("Cat")
+
 # # super/init function in python 
 # class one:
 #     def __init__(self):
