@@ -80,6 +80,24 @@
 # lol=three()
 # lol.fn3()
 
+# class A:
+#     def a_method(self):
+#         print("A method from class A")
+
+
+# class B:
+#     def b_method(self):
+#         print("B method from Class B")
+
+
+# class C(A,B):
+#     pass
+
+
+# c = C()
+# c.a_method()
+# c.b_method()
+
 # multilavel inheritance 
 # class one:
 #     def fn1(self):
@@ -165,3 +183,19 @@
 #         print('i am :'+name+'my age :'+age+'my city :'+city)
 
 # lol=two('mahmud','26','rajshahi')
+
+# class one:
+#     def __init__(self,name):
+#         self.name=name
+
+# class two:
+#     def __init__(self,age):
+#         self.age=age
+
+# class three(one,two):
+#     def __init__(self,name,age,city):
+#         self.city=city
+#         print('i am :'+name+' my age is :'+age+' my city is :'+city)
+# lol=three('mahmud','26','raj')
+
+
