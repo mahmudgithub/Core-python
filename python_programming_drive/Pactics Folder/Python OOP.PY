@@ -113,13 +113,26 @@
 # sos=three()
 # sos.fn1('hossain')
 
-# python overriding 
-class one:
-    def fn1(self):
-        print('i am fn one of class one')
-class two(one):
-    def fn1(self):
-        print('i am fn2 of class two')
+# # python overriding 
+# class one:
+#     def fn1(self):
+#         print('i am fn one of class one')
+# class two(one):
+#     def fn1(self):
+#         print('i am fn2 of class two')
 
-lol=two()
-lol.fn1()
+# pol=one()
+# pol.fn1()
+# lol=two()
+# lol.fn1()
+
+# # super/init function in python 
+# class one:
+#     def __init__(self):
+#         print('i am first init function')
+
+# class two(one):
+#     def __init__(Self,name):
+#         print('i am second init function,and my name is :'+name)
+# lol=one()
+# sos=two('mahmud')
