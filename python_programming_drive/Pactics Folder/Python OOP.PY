@@ -223,6 +223,3 @@
 #         print('i am :'+name+' my age is :'+age+' my city is :'+city)
 # lol=three('mahmud','26','raj')
 
-
-
-
