@@ -9,3 +9,10 @@
 
 # for x in arr:
 #     print(x)
+
+# arr=[]
+# lol=input('enter first:')
+# # pol=input('enter second :')
+# # arr=lol
+# arr=pol
+# print(arr)
