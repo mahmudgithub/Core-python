@@ -24,24 +24,33 @@
 
 
 
-# variable names
-# camel case style
-myNymeIs='mahmud'
-print(myNymeIs)
-# pascal style
-MyNameIs='hossain'
-print(MyNameIs)
-# Snake Case
-_my_name_is='lamyaa'
-print(_my_name_is)
-# more accepted styles
-myname='mahmud'
-print(myname)
-my_='hossain'
-print(my_)
-myname5='mahmud'
-print(myname5)
+# # variable names
+# # camel case style
+# myNymeIs='mahmud'
+# print(myNymeIs)
+# # pascal style
+# MyNameIs='hossain'
+# print(MyNameIs)
+# # Snake Case
+# _my_name_is='lamyaa'
+# print(_my_name_is)
+# # more accepted styles
+# myname='mahmud'
+# print(myname)
+# my_='hossain'
+# print(my_)
+# myname5='mahmud'
+# print(myname5)
 # invalide styles
 # 2myname='hossain' donot use number at start
 # my-name='madhdh' do not use minus 
 # my name='dhdhdh'  do not use space btween 
+
+
+
+# multiple variables declariation in one line
+first,second,third='mahmud',12345,2.345
+print(first)
+print(second)
+print(third)
+
