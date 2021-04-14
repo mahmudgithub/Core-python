@@ -112,7 +112,7 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # print(names)
 
 
-# sort method 
-# use sort method decorate array elemets as assending form 
-names.sort()
-print(names)
+# # sort method 
+# # use sort method decorate array elemets as assending form 
+# names.sort()
+# print(names)
