@@ -83,11 +83,13 @@
 
 # use global keyword to make a local variable to global variable 
 #this same work done by javascript by this key word
-def fn():
-    name='mahmud'
-    global name2
-    name2='hossain'
-fn()
-print(name2)
-# print(name)
+# def fn():
+#     name='mahmud'
+#     global name2
+#     name2='hossain'
+# fn()
+# print(name2)
+# # print(name)
+
+
 
