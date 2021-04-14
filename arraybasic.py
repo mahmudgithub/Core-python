@@ -106,7 +106,13 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 
 
 
-# reverse method 
-# using this method reverse any array or list 
-names.reverse()
+# # reverse method 
+# # using this method reverse any array or list 
+# names.reverse()
+# print(names)
+
+
+# sort method 
+# use sort method decorate array elemets as assending form 
+names.sort()
 print(names)
