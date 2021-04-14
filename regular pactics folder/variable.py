@@ -69,14 +69,25 @@
 # print(x)
 
 
-# # global variable 
-name='mahmud'
+# # # global variable 
+# name='mahmud'
+# def fn():
+#     print(name)
+# fn()
+# # local variable
+# name2='mahmud' #global accessible 
+# def fn2():
+#     name2='hossain' #but local not 
+# fn2()
+# print(name2)
+
+# use global keyword to make a local variable to global variable 
+#this same work done by javascript by this key word
 def fn():
-    print(name)
+    name='mahmud'
+    global name2
+    name2='hossain'
 fn()
-# local variable
-name2='mahmud' #global accessible 
-def fn2():
-    name2='hossain' #but local not 
-fn2()
 print(name2)
+# print(name)
+
