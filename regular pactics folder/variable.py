@@ -62,8 +62,21 @@
 
 # unpake variables values from array
 # its call distrucring in javascript
-name=['mahmud','hossain','nannu']
-x,y,z=name
-print(name)
-print(name[0])
-print(x)
+# name=['mahmud','hossain','nannu']
+# x,y,z=name
+# print(name)
+# print(name[0])
+# print(x)
+
+
+# # global variable 
+name='mahmud'
+def fn():
+    print(name)
+fn()
+# local variable
+name2='mahmud' #global accessible 
+def fn2():
+    name2='hossain' #but local not 
+fn2()
+print(name2)
