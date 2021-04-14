@@ -48,9 +48,22 @@
 
 
 
-# multiple variables declariation in one line
-first,second,third='mahmud',12345,2.345
-print(first)
-print(second)
-print(third)
+# # multiple variables declariation in one line
+# first,second,third='mahmud',12345,2.345
+# print(first)
+# print(second)
+# print(third)
+# one value but multiple variables
+# x=y=z='mahmud'
+# print(x)
+# print(y)
+# print(z)
 
+
+# unpake variables values from array
+# its call distrucring in javascript
+name=['mahmud','hossain','nannu']
+x,y,z=name
+print(name)
+print(name[0])
+print(x)
