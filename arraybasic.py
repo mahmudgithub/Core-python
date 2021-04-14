@@ -99,10 +99,14 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 
 
 
-# inset method 
-# inset method add any elment to array crosspoding index number 
-names.insert(2,'eid day')
+# # inset method 
+# # inset method add any elment to array crosspoding index number 
+# names.insert(2,'eid day')
+# print(names)
+
+
+
+# reverse method 
+# using this method reverse any array or list 
+names.reverse()
 print(names)
-
-
-
