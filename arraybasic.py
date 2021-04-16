@@ -116,3 +116,8 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # # use sort method decorate array elemets as assending form 
 # names.sort()
 # print(names)
+
+
+# define an array datasturucture 
+arr=['mahmud','hossain','nannu','lamyaa']
+print(arr[0])
