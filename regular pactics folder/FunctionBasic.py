@@ -35,10 +35,31 @@
 # fun4(a='mahmud',b='hossain')
 
 
-# Default Parameter Value 
-def fn5(y,z,x='mamud'):
+
+
+
+# # Default Parameter Value 
+# def fn5(y,z,x='mamud'):
    
-    print(y)
-    print(z)
-    print(x)
-fn5(1,2)
+#     print(y)
+#     print(z)
+#     print(x)
+# fn5(1,2)
+
+
+
+
+# # Passing a List as an Argument or for loop 
+# num=[1,2,3,4,5]
+# def fn6():
+#     for i in num:
+#         print(i)
+# fn6()
+
+
+# # and 
+# num=[1,2,3,4,5]
+# def fn6(x):
+#     for i in x:
+#         print(i)
+# fn6(num)
