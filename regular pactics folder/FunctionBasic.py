@@ -28,6 +28,8 @@
 #     print(z)
 # fun3(x='mahmud',y='hossain',z='nannu')
 
+
+# Arbitrary Keyword Arguments, **kwargs 
 # def fun4(**kwargs):
 #     print(kwargs)
 # fun4(a='mahmud',b='hossain')
