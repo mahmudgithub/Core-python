@@ -118,6 +118,20 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # print(names)
 
 
-# define an array datasturucture 
-arr=['mahmud','hossain','nannu','lamyaa']
-print(arr[0])
+# # define an array datasturucture 
+# arr=['mahmud','hossain','nannu','lamyaa']
+# print(arr[0])
+
+
+# # take input and push to array in python
+# arr=[]
+# lol=int(input('enter a number:'))
+# arr.append(lol)
+# print(arr)
+
+# # by using for loop take input and add to array 
+# arr=[]
+# for i in range(5):
+#     lol=int(input('enter a number:'))
+#     arr.append(lol)
+# print(arr)
