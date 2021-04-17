@@ -183,3 +183,23 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 #     print('sorry ')
 
 
+
+##simple fotrmate
+one=int(input('enter a value:'))
+lo=average=one/2
+print(lo)
+
+# find avarage number from array automatically
+arr=[]
+lol=int(input('inter a value:'))
+for x in range(lol):
+    arr.append(x)
+# print(arr)
+start=arr[0]
+end=lol
+avr=(start+end)/2
+print(avr)
+
+
+
+# find average value in specific index number 
