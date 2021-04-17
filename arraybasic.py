@@ -129,12 +129,16 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # arr.append(lol)
 # print(arr)
 
+
+
 # # by using for loop take input and add to array 
 # arr=[]
 # for i in range(5):
 #     lol=int(input('enter a number:'))
 #     arr.append(lol)
 # print(arr)
+
+
 
 # # take a user input range and travarse to put in array 
 # arr=[]
@@ -146,3 +150,36 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 #     pass
 #     arr.append(i)
 #     print(arr)
+
+
+# arr=[]
+# for i in range(5,10):
+#     pass
+#     arr.append(i)
+# print(arr)
+# print(arr[1])
+
+
+
+# arr=[]
+# lol=int(input('enter a number:'))
+# for i in range(lol):
+#     arr.append(i)
+# print(arr)
+# if arr[3]==4:
+#     print('hello')
+# else:
+#     print('sorry')
+
+
+# arr=[]
+# lol=str(input('enter a number:'))
+# for i in lol:
+#     arr.append(i)
+# print(arr)
+# if arr[0]=='m':
+#     print('hello')
+# else:
+#     print('sorry ')
+
+
