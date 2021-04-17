@@ -135,3 +135,14 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 #     lol=int(input('enter a number:'))
 #     arr.append(lol)
 # print(arr)
+
+# # take a user input range and travarse to put in array 
+# arr=[]
+# lol=int(input('enter a number:'))
+# arr.append(lol)
+# # print(arr)
+# for i in range(lol):
+#     # print(i)
+#     pass
+#     arr.append(i)
+#     print(arr)
