@@ -33,3 +33,12 @@
 # def fun4(**kwargs):
 #     print(kwargs)
 # fun4(a='mahmud',b='hossain')
+
+
+# Default Parameter Value 
+def fn5(y,z,x='mamud'):
+   
+    print(y)
+    print(z)
+    print(x)
+fn5(1,2)

@@ -23,3 +23,14 @@
 
 // # keyword argument function
 // not possible 
+
+
+
+
+// # Default Parameter Value 
+function fn5(y,z,x='hossain'){
+    console.log(y);
+    console.log(z);
+    console.log(x);
+}
+fn5(1,2)
