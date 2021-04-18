@@ -56,7 +56,6 @@
 //     }
 // }
 // fn6(num)
-
 // and 
 // let num=[1,2,3,4,5]
 // function fn6(){
@@ -65,3 +64,12 @@
 //     }
 // }
 // fn6()
+
+
+
+// // # return value function 
+// function fn7(x,y){
+//     return `result is ${x+y}`
+// }
+
+// console.log(fn7(3,3));

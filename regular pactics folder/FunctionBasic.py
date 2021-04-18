@@ -63,3 +63,12 @@
 #     for i in x:
 #         print(i)
 # fn6(num)
+
+
+
+
+# # return value function 
+# def fn7(x,y):
+#     return x+y
+# lol=fn7(1,2)
+# print(lol)
