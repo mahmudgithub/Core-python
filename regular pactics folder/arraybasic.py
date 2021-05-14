@@ -49,8 +49,8 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # # using this method remove any array elment by element name
 # names.remove('nannu')
 # print(names)
-names.remove('hossain')
-print(names)
+# names.remove('hossain')
+# print(names)
 
 
 
@@ -58,7 +58,7 @@ print(names)
 # # find length of an array 
 # # same function in javascript use length 
 # print(len(names))
-
+# print(len(names))
 
 
 

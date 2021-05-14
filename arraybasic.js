@@ -32,5 +32,11 @@ num=[1,2,3,4,5,'mahmud','hossain']
 
 
 //removerd any array element by value name
-num.pop('hossain')
-console.log(num);
+// num.pop('hossain')
+// console.log(num);
+
+
+
+// length/len method 
+// using this method find length of an array 
+// console.log(num.length);
