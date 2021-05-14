@@ -1,5 +1,5 @@
 # make an array
-# names=['mahud','hossain','nannu','mahmud','mahmud']
+names=['mahud','hossain','nannu','mahmud','mahmud']
 
 # num=[1,2,3,4,5]
 # print(num)
@@ -19,10 +19,10 @@
 # # change array values by index number
 # names[2]='lamyaa'
 # print(names)
-num=[1,2,3,4,5]
-print(num[4])
-num[4]='hossain'
-print(num[4])
+# num=[1,2,3,4,5]
+# print(num[4])
+# num[4]='hossain'
+# print(num[4])
 
 
 
@@ -32,8 +32,8 @@ print(num[4])
 # # same work in javascript use by only index number or push method 
 # names.append('new')
 # print(names)
-
-
+# names.append('llllllllllllllllllll')
+# print(names)
 
 
 # #pop method
