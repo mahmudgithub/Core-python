@@ -19,7 +19,10 @@
 # # change array values by index number
 # names[2]='lamyaa'
 # print(names)
-
+num=[1,2,3,4,5]
+print(num[4])
+num[4]='hossain'
+print(num[4])
 
 
 
