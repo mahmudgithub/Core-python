@@ -73,14 +73,15 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # # remove all element from array 
 # names.clear()
 # print(names)
-
+# print(names.clear())
 
 
 # # copy method 
 # # use to copy a array or list 
 # x=names.copy()
 # print(x)
-
+# lol=names.copy()
+# print(lol)
 
 
 

@@ -1,5 +1,5 @@
 // make an array and access 
-num=[1,2,3,4,5,'mahmud','hossain']
+num=[1,2,3,4,5,'mahmud','hossain','lamyaa']
 // console.log(num);
 // for(let x=0; x<num.length;x++){
 //     console.log(x);
@@ -40,3 +40,16 @@ num=[1,2,3,4,5,'mahmud','hossain']
 // length/len method 
 // using this method find length of an array 
 // console.log(num.length);
+
+
+
+// for loop in an array 
+// for(let i =1; i<num.length;i++){
+//     console.log(i);
+// }
+
+
+
+// // copy function in array 
+// num2=num
+// console.log(num2);
