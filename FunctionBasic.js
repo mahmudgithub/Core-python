@@ -6,12 +6,10 @@
 
 
 
-
 // // argument function 
 // function fun1(x,y){
 //     console.log();
 // }
-
 
 
 // // in javascript call rast parameter or python call arbitary parameter
@@ -67,9 +65,14 @@
 
 
 
+
+
 // // # return value function 
 // function fn7(x,y){
 //     return `result is ${x+y}`
 // }
 
 // console.log(fn7(3,3));
+
+
+
