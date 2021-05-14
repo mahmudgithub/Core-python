@@ -1,5 +1,5 @@
 # make an array
-names=['mahud','hossain','nannu','mahmud','mahmud']
+# names=['mahud','hossain','nannu','mahmud','mahmud']
 
 
 
