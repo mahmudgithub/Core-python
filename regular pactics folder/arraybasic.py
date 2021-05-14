@@ -1,7 +1,10 @@
 # make an array
 # names=['mahud','hossain','nannu','mahmud','mahmud']
 
-
+# num=[1,2,3,4,5]
+# print(num)
+# for x in num:
+#     print(x)
 
 # # access array element
 # print(names)
