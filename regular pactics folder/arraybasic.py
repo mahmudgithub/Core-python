@@ -89,7 +89,7 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # # use to count array or list similar elements 
 # print(names.count('mahmud'))
 # print(names.count('nannu'))
-
+# print(names.count('mahmud'))
 
 
 # # extend() Method
@@ -97,6 +97,10 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # names2=[1,2,3,4,5]
 # names.extend(names2)
 # print(names)
+# names3=['hhhhh','hfhfhfhfh']
+# names.extend(names3)
+# print(names)
+
 
 
 

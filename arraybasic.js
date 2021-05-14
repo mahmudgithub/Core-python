@@ -53,3 +53,10 @@ num=[1,2,3,4,5,'mahmud','hossain','lamyaa']
 // // copy function in array 
 // num2=num
 // console.log(num2);
+
+
+
+// // concat method same as python extend method 
+// num3=['djdjdjdj','dhdhdhuyyeehjd']
+// let go=num.concat(num3)
+// console.log(go);
