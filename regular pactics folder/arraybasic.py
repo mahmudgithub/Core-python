@@ -42,7 +42,7 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # # same work in javascript by pop method 
 # names.pop(1)
 # print(names)
-
+# print(names.pop())
 
 
 # # remove method 

@@ -1,1 +1,2 @@
-num.append('djjdjdjdjdjdjdjjd')
+num.pop()
+// console.log(num);

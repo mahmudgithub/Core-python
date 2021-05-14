@@ -20,3 +20,12 @@ num=[1,2,3,4,5,'mahmud','hossain']
 // push method add new element in array on last 
 // num.push('djjdjdjdjdjdjdjjd')
 // console.log(num);
+
+
+
+// pop method remove element from last 
+// num.pop()
+// console.log(num);
+// also remove Element from last by index number 
+// num.pop(2)
+// console.log(num);
