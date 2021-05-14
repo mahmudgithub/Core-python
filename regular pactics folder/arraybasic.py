@@ -49,7 +49,8 @@ names=['mahud','hossain','nannu','mahmud','mahmud']
 # # using this method remove any array elment by element name
 # names.remove('nannu')
 # print(names)
-
+names.remove('hossain')
+print(names)
 
 
 

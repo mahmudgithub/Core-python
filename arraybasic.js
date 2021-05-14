@@ -29,3 +29,8 @@ num=[1,2,3,4,5,'mahmud','hossain']
 // also remove Element from last by index number 
 // num.pop(2)
 // console.log(num);
+
+
+//removerd any array element by value name
+num.pop('hossain')
+console.log(num);
